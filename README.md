@@ -6,6 +6,7 @@ Eres un analista en Crankshaft List, una plataforma en línea donde se publican 
 **Pasos a seguir:**
 Este proyecto comienza con el procesamiento de datos para identificar y abordar los valores faltantes mediante imputación o eliminación según corresponda. Luego, se generan nuevas columnas a partir de las existentes para realizar un análisis de datos más completo. A continuación, se lleva a cabo un análisis exploratorio de los datos para responder a la pregunta central de este proyecto: "¿Qué factores impactan más en el precio de venta de un vehículo usado?". Finalmente, se presentan las conclusiones generales del proyecto.
 
+-------------
 
 # What Sells a Car? by *Carlos Horta* (carlosgim@gmail.com)
 
